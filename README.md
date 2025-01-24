@@ -5,6 +5,7 @@ Geophysics software, datasets, literature
 
 ## Literature
 ### in Russuan 
+Череповский Анатолий Викторович https://elibrary.ru/author_items.asp?authorid=66113 (Федеральный исследовательский центр "Информатика и управление" РАН)         
 
 
 Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893         
