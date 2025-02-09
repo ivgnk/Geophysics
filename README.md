@@ -41,7 +41,10 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 --- Екатеринбург         
 -- ИГ УрО РАН                     
 Институт Геофизики Им. Ю.П. БУЛАШЕВИЧА УрО РАН https://www.elibrary.ru/org_items.asp?orgsid=1014                          
-[Лаборатория математической геофизики](http://igfuroran.ru/struktura/laboratoriya-matematicheskoj-geofiziki)        
+igfuroran.ru                
+[Лаборатория геодинамики](http://igfuroran.ru/struktura/laboratoriya-geodinamiki)     
+**[Лаборатория математической геофизики](http://igfuroran.ru/struktura/laboratoriya-matematicheskoj-geofiziki)**                 
+
 
 
 Мартышко П.С. https://www.elibrary.ru/author_items.asp?authorid=58955              
