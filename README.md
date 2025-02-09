@@ -6,7 +6,7 @@ Geophysics software, datasets, literature
 ## Literature
 ### in Russuan 
 --- Пермь       
----- Горный институт УрО РАН                                   
+---- Горный институт УрО РАН     
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
@@ -45,7 +45,8 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 
 ---- ПНГ
 **ПНГ** https://www.elibrary.ru/org_items.asp?orgsid=5798                       
-Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                      
+Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                     
+Савич А Д https://www.elibrary.ru/author_items.asp?authorid=521342                  
 
 ---- ПНИПУ       
 **ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
@@ -78,11 +79,18 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Федорова О.И. https://www.elibrary.ru/author_items.asp?authorid=148711                     
 Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
 Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
+
 --- Москва              
+---- Российский государственный геологоразведочный университет им. Серго Орджоникидзе
+**[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
+Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
+Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468                    
+
 ---- ИФЗ          
 **Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
 ДРОБЫШЕВ М.Н. https://www.elibrary.ru/author_items.asp?authorid=831822                  
 КОНЕШОВ В.Н. https://www.elibrary.ru/author_items.asp?authorid=12137                         
+Михайлов В О https://www.elibrary.ru/author_items.asp?authorid=60720                   
 
 Череповский Анатолий Викторович (Федеральный исследовательский центр "Информатика и управление" РАН, Институт проблем информатики РАН (ИПИ РАН), АО «Росгеология»)         
 https://elibrary.ru/author_items.asp?authorid=66113         
