@@ -26,7 +26,7 @@ Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://w
 
 ---- АО "ВНИИ Галургии"
 Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893         
-Caryov R I Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                                                      
+Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                 
 
 Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
