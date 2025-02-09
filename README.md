@@ -40,9 +40,9 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 
 --- Екатеринбург         
 -- ИГ УрО РАН                     
-ИНСТИТУТ ГЕОФИЗИКИ ИМ. Ю.П. БУЛАШЕВИЧА УРО РАН https://www.elibrary.ru/org_items.asp?orgsid=1014                          
-МАРТЫШКО П.С. https://www.elibrary.ru/author_items.asp?authorid=58955              
-ОВЧАРЕНКО А.В. https://www.elibrary.ru/author_items.asp?authorid=148559                   
+Институт Геофизики Им. Ю.П. БУЛАШЕВИЧА УрО РАН https://www.elibrary.ru/org_items.asp?orgsid=1014                          
+Мартышко П.С. https://www.elibrary.ru/author_items.asp?authorid=58955              
+Овчаренко А.В. https://www.elibrary.ru/author_items.asp?authorid=148559                   
 
 
 --- Москва              
