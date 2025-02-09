@@ -6,7 +6,7 @@ Geophysics software, datasets, literature
 ## Literature
 ### in Russuan 
 --- Пермь       
----- Горный институт
+---- Горный институт УрО РАН                                   
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
@@ -29,14 +29,26 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                 
 
 
----- ПГНИУ              
-ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709                     
+---- ПГНИУ            
+**ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                      
+Костицын В И https://www.elibrary.ru/author_items.asp?authorid=353458              
+ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
+Луппов В И 
 ПЛЕШКОВ Л.Д. https://www.elibrary.ru/author_items.asp?authorid=1015736                               
+Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767                     
 Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
----- ЛУКОЙЛ                    
+---- ООО "ЛУКОЙЛ-ПЕРМЬ"                         
+**ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
 ПУТИЛОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=818699                   
-ЗАКЛЮЧНОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=1278512                    
+ЗАКЛЮЧНОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=1278512       
+
+---- ПНГ
+**ПНГ** https://www.elibrary.ru/org_items.asp?orgsid=5798                       
+Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                      
+
+---- ПНИПУ       
+**ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
 
 --- Екатеринбург         
 -- ИГ УрО РАН                     
