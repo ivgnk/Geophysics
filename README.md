@@ -122,9 +122,9 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Череповский Анатолий Викторович (Федеральный исследовательский центр "Информатика и управление" РАН, Институт проблем информатики РАН (ИПИ РАН), АО «Росгеология»)         
 https://elibrary.ru/author_items.asp?authorid=66113         
 Ретеюм Алексей Юрьевич (МГУ)              
-https://elibrary.ru/author_items.asp?authorid=113534
+https://elibrary.ru/author_items.asp?authorid=113534                            
 
---- Институт теоретической и прикладной механики им. С.А. Христиановича СО РАН
+--- Институт теоретической и прикладной механики им. С.А. Христиановича СО РАН                       
 Глазнев В Н https://www.elibrary.ru/author_items.asp?authorid=8441           
 
 --- Иркутск                    
