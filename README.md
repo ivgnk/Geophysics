@@ -7,6 +7,7 @@ Geophysics software, datasets, literature
 ### in Russuan 
 --- Пермь       
 ---- Горный институт УрО РАН     
+**[Горный институт УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
@@ -16,9 +17,11 @@ Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941
 ЩЕРБИНИНА Г.П. https://www.elibrary.ru/author_items.asp?authorid=119887                         
 ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785                      
 
-Барях А А https://www.elibrary.ru/author_items.asp?authorid=961                            
+Барях А А https://www.elibrary.ru/author_items.asp?authorid=961         
+Бачурин Б А https://www.elibrary.ru/author_items.asp?authorid=58259           
 Пугин А В https://www.elibrary.ru/author_items.asp?authorid=598775                        
 
+Колесников В П https://www.elibrary.ru/author_items.asp?authorid=67314                               
 Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919                                    
 Тайницкий Александр Александрович https://elibrary.ru/author_profile.asp?authorid=851846                      
 Кичигин Андрей Владимирович https://elibrary.ru/author_profile.asp?authorid=771102                        
@@ -38,7 +41,10 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
 Луппов В И 
 ПЛЕШКОВ Л.Д. https://www.elibrary.ru/author_items.asp?authorid=1015736                               
-Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767                     
+Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767           
+
+Середин В В https://www.elibrary.ru/author_items.asp?authorid=434105                      
+Коноплев А В https://www.elibrary.ru/author_items.asp?authorid=148730                    
 Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
 ---- ООО "ЛУКОЙЛ-ПЕРМЬ"                         
@@ -93,18 +99,19 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
 
 --- Москва              
----- Российский государственный геологоразведочный университет им. Серго Орджоникидзе                                    
+---- Российский государственный геологоразведочный университет им. Серго Орджоникидзе (МГРИ РГГРУ)                                   
 **[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
 Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
-Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468                    
+Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468             
+Петров А В https://www.elibrary.ru/author_items.asp?authorid=129704               
 
 ---- Геологический институт РАН
 **[Геологический институт РАН](https://www.elibrary.ru/org_items.asp?orgsid=132)**            
 Бабаянц П С https://www.elibrary.ru/author_items.asp?authorid=137306                        
 
----- Геофизическое научно-производственное предприятие Аэрогеофизика
-[Геофизическое научно-производственное предприятие Аэрогеофизика](https://www.elibrary.ru/org_items.asp?orgsid=13859)             
-Трусов А А https://www.elibrary.ru/author_items.asp?authorid=1119847                      
+---- Геофизическое научно-производственное предприятие Аэрогеофизика                               
+[Геофизическое научно-производственное предприятие Аэрогеофизика](https://www.elibrary.ru/org_items.asp?orgsid=13859)                             
+Трусов А А https://www.elibrary.ru/author_items.asp?authorid=1119847                       
 
 ---- ИФЗ          
 **Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
@@ -120,6 +127,11 @@ https://elibrary.ru/author_items.asp?authorid=113534
 --- Институт теоретической и прикладной механики им. С.А. Христиановича СО РАН
 Глазнев В Н https://www.elibrary.ru/author_items.asp?authorid=8441           
 
+--- Иркутск                    
+Давыденко А Ю https://www.elibrary.ru/author_items.asp?authorid=13293          
+
 ---- Институт вулканологии и сейсмологии ДВО РАН
-Рашидов В А https://www.elibrary.ru/author_items.asp?authorid=63138                         
+Рашидов В А https://www.elibrary.ru/author_items.asp?authorid=63138             
+
+
 
