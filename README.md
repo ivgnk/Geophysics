@@ -7,7 +7,7 @@ Geophysics software, datasets, literature
 ### in Russuan 
 --- Пермь       
 ---- Горный институт УрО РАН     
-**[Горный институт УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
+**[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
