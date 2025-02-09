@@ -44,6 +44,14 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 igfuroran.ru                
 [Лаборатория геодинамики](http://igfuroran.ru/struktura/laboratoriya-geodinamiki)     
 **[Лаборатория математической геофизики](http://igfuroran.ru/struktura/laboratoriya-matematicheskoj-geofiziki)**                 
+[Лаборатория региональной геофизики](http://igfuroran.ru/struktura/laboratoriya-regionalnoj-geofiziki)      
+[Лаборатория сейсмометрии](http://igfuroran.ru/struktura/laboratoriya-sejsmometrii)              
+[Лаборатория скважинной геофизики](http://igfuroran.ru/struktura/laboratoriya-skvazhinnoj-geofiziki)           
+[]()                
+[]()                
+[]()                
+[]()                
+[]()                
 
 
 
