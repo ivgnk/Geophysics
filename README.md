@@ -85,16 +85,26 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
 Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
 
---- Воронеж
+--- Воронеж            
 Воронежский государственный универстет             
 Антонов Ю В https://www.elibrary.ru/author_items.asp?authorid=4336                             
 
+--- Петербург 
+Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
 
 --- Москва              
 ---- Российский государственный геологоразведочный университет им. Серго Орджоникидзе                                    
 **[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
 Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
 Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468                    
+
+---- Геологический институт РАН
+**[Геологический институт РАН](https://www.elibrary.ru/org_items.asp?orgsid=132)**            
+Бабаянц П С https://www.elibrary.ru/author_items.asp?authorid=137306                        
+
+---- Геофизическое научно-производственное предприятие Аэрогеофизика
+[Геофизическое научно-производственное предприятие Аэрогеофизика](https://www.elibrary.ru/org_items.asp?orgsid=13859)             
+Трусов А А https://www.elibrary.ru/author_items.asp?authorid=1119847                      
 
 ---- ИФЗ          
 **Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
