@@ -41,10 +41,16 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 --- Екатеринбург         
 -- ИГ УрО РАН                     
 Институт Геофизики Им. Ю.П. БУЛАШЕВИЧА УрО РАН https://www.elibrary.ru/org_items.asp?orgsid=1014                          
+[Лаборатория математической геофизики](http://igfuroran.ru/struktura/laboratoriya-matematicheskoj-geofiziki)        
+
+
 Мартышко П.С. https://www.elibrary.ru/author_items.asp?authorid=58955              
 Овчаренко А.В. https://www.elibrary.ru/author_items.asp?authorid=148559                   
-Рублев А.Л. https://www.elibrary.ru/author_items.asp?authorid=62135                    
-Федорова Н.В. https://www.elibrary.ru/author_items.asp?authorid=68022             
+Рублев А.Л. https://www.elibrary.ru/author_items.asp?authorid=62135                
+Бызов Д.Д. 
+
+Федорова Н.В. https://www.elibrary.ru/author_items.asp?authorid=68022          
+Козлова И.А. https://www.elibrary.ru/author_items.asp?authorid=161831              
 
 --- Москва              
 ---- ИФЗ          
