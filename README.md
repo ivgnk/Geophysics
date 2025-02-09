@@ -28,11 +28,11 @@ Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://w
 Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893         
 Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                 
 
-Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
 ---- ПГНИУ              
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709                     
 ПЛЕШКОВ Л.Д. https://www.elibrary.ru/author_items.asp?authorid=1015736                               
+Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
 ---- ЛУКОЙЛ                    
 ПУТИЛОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=818699                   
@@ -49,22 +49,26 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 [Лаборатория скважинной геофизики](http://igfuroran.ru/struktura/laboratoriya-skvazhinnoj-geofiziki)           
 [Лаборатория экологической геофизики](http://igfuroran.ru/struktura/laboratoriya-ekologicheskoj-geofiziki)                
 [Лаборатория электрометрии](http://igfuroran.ru/struktura/laboratoriya-elektrometrii)                
+[Диссертации](http://igfuroran.ru/struktura/dissertatsionnyj-sovet/dissertatsii)                
 []()                
 []()                
-[]()                
-
-
 
 Мартышко П.С. https://www.elibrary.ru/author_items.asp?authorid=58955              
 Овчаренко А.В. https://www.elibrary.ru/author_items.asp?authorid=148559                   
-Рублев А.Л. https://www.elibrary.ru/author_items.asp?authorid=62135                
-Бызов Д.Д. 
-
+Рублев А.Л. https://www.elibrary.ru/author_items.asp?authorid=62135       
+Бызов Д.Д. https://www.elibrary.ru/author_items.asp?authorid=717666               
+Ладовский И.В. https://www.elibrary.ru/author_items.asp?authorid=66404              
+Цидаев А.Г. https://www.elibrary.ru/author_items.asp?authorid=163472               
 Федорова Н.В. https://www.elibrary.ru/author_items.asp?authorid=68022          
-Козлова И.А. https://www.elibrary.ru/author_items.asp?authorid=161831              
 
+Козлова И.А. https://www.elibrary.ru/author_items.asp?authorid=161831              
+Шестаков А.Ф. https://www.elibrary.ru/author_items.asp?authorid=62123           
+Федорова О.И. https://www.elibrary.ru/author_items.asp?authorid=148711                     
+Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
+Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
 --- Москва              
 ---- ИФЗ          
+**Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
 ДРОБЫШЕВ М.Н. https://www.elibrary.ru/author_items.asp?authorid=831822                  
 КОНЕШОВ В.Н. https://www.elibrary.ru/author_items.asp?authorid=12137                         
 
