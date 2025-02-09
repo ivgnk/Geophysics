@@ -52,8 +52,8 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 ПУТИЛОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=818699                   
 ЗАКЛЮЧНОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=1278512       
 
----- ПНГ
-**ПНГ** https://www.elibrary.ru/org_items.asp?orgsid=5798                       
+---- ПНГ                               
+**[ПНГ](https://www.elibrary.ru/org_items.asp?orgsid=5798)**                        
 Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                     
 Савич А Д https://www.elibrary.ru/author_items.asp?authorid=521342                  
 Белов С В https://www.elibrary.ru/author_items.asp?authorid=836865                      
