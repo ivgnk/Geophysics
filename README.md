@@ -16,6 +16,9 @@ Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941
 ЩЕРБИНИНА Г.П. https://www.elibrary.ru/author_items.asp?authorid=119887                         
 ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785                      
 
+Барях А А https://www.elibrary.ru/author_items.asp?authorid=961                            
+Пугин А В https://www.elibrary.ru/author_items.asp?authorid=598775                        
+
 Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919                                    
 Тайницкий Александр Александрович https://elibrary.ru/author_profile.asp?authorid=851846                      
 Кичигин Андрей Владимирович https://elibrary.ru/author_profile.asp?authorid=771102                        
@@ -47,6 +50,8 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 **ПНГ** https://www.elibrary.ru/org_items.asp?orgsid=5798                       
 Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                     
 Савич А Д https://www.elibrary.ru/author_items.asp?authorid=521342                  
+Белов С В https://www.elibrary.ru/author_items.asp?authorid=836865                      
+Чистяков Н Ю https://www.elibrary.ru/author_items.asp?authorid=1236849              
 
 ---- ПНИПУ       
 **ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
@@ -80,8 +85,13 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
 Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
 
+--- Воронеж
+Воронежский государственный универстет             
+Антонов Ю В https://www.elibrary.ru/author_items.asp?authorid=4336                             
+
+
 --- Москва              
----- Российский государственный геологоразведочный университет им. Серго Орджоникидзе
+---- Российский государственный геологоразведочный университет им. Серго Орджоникидзе                                    
 **[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
 Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
 Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468                    
@@ -96,4 +106,10 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 https://elibrary.ru/author_items.asp?authorid=66113         
 Ретеюм Алексей Юрьевич (МГУ)              
 https://elibrary.ru/author_items.asp?authorid=113534
+
+--- Институт теоретической и прикладной механики им. С.А. Христиановича СО РАН
+Глазнев В Н https://www.elibrary.ru/author_items.asp?authorid=8441           
+
+---- Институт вулканологии и сейсмологии ДВО РАН
+Рашидов В А https://www.elibrary.ru/author_items.asp?authorid=63138                         
 
