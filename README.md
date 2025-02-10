@@ -18,7 +18,7 @@ https://giab-online.ru/catalog/magazine
 **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
-Иркутск 
+Иркутск                    
 [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 [Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
 [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
