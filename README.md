@@ -15,7 +15,7 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 https://giab-online.ru/catalog/magazine
 
 **Санкт-Петербург**           
-[Нефтегазовая геология. Теория и практика](https://ngtp.ru/rub/)         
+**[Нефтегазовая геология. Теория и практика](https://ngtp.ru/rub/)**                           
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
