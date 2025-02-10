@@ -1,8 +1,17 @@
 # Literature
 ## in Russuan 
 
-### 🔵 Журналы      
+### 🔵 Журналы  
+https://en.wikipedia.org/wiki/Category:Geology_journals                  
+https://ru.wikipedia.org/wiki/Категория:Геологические_журналы                   
+
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
+Москва
+[Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
+[Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
+[Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
+
+
 Пермь - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
 Петропавловск-Камчатский - [Вестник КРАУНЦ. Науки о Земле](http://www.kscnet.ru/journal/kraesc)          
 Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
