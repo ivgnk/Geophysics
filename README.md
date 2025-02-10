@@ -57,8 +57,8 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 #### ПНИПУ       
 **ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
 
---- Екатеринбург         
--- ИГ УрО РАН                     
+### Екатеринбург         
+#### ИГ УрО РАН                     
 Институт Геофизики Им. Ю.П. БУЛАШЕВИЧА УрО РАН https://www.elibrary.ru/org_items.asp?orgsid=1014                          
 **[igfuroran.ru](http://igfuroran.ru/)**                                             
 [Лаборатория геодинамики](http://igfuroran.ru/struktura/laboratoriya-geodinamiki)     
@@ -86,12 +86,12 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
 Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
 
---- Воронеж            
+### Воронеж            
 Воронежский государственный универстет             
 Антонов Ю В https://www.elibrary.ru/author_items.asp?authorid=4336                             
 
---- Саратов
-**[Саратовский государственный универстет](https://sgu.ru/)** https://old.sgu.ru
+### Саратов
+#### **[Саратовский государственный универстет](https://sgu.ru/)** https://old.sgu.ru
 https://www.elibrary.ru/org_items.asp?orgsid=259
 
 **Журнал [Недра Поволжья и Прикаспия /Саратов/](https://www.elibrary.ru/contents.asp?titleid=9817)**                              
@@ -114,25 +114,25 @@ https://old.sgu.ru/structure/geological/kafgeofiz
 [Губатенко В.П. (1947-2020)](https://old.sgu.ru/structure/geological/kafgeofiz/news/2020-03-04/pamyati-v-p-gubatenko) 
 https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personalii/gubatenko-valeriypetrovich/
 
---- Петербург 
+### Петербург 
 Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
 
---- Москва              
----- Российский государственный геологоразведочный университет им. Серго Орджоникидзе (МГРИ РГГРУ)                                   
+### Москва              
+#### Российский государственный геологоразведочный университет им. Серго Орджоникидзе (МГРИ РГГРУ)                                   
 **[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
 Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
 Никитин А А https://www.elibrary.ru/author_items.asp?authorid=22468             
 Петров А В https://www.elibrary.ru/author_items.asp?authorid=129704               
 
----- Геологический институт РАН
+#### Геологический институт РАН
 **[Геологический институт РАН](https://www.elibrary.ru/org_items.asp?orgsid=132)**            
 Бабаянц П С https://www.elibrary.ru/author_items.asp?authorid=137306                        
 
----- Геофизическое научно-производственное предприятие Аэрогеофизика                               
+#### Геофизическое научно-производственное предприятие Аэрогеофизика                               
 [Геофизическое научно-производственное предприятие Аэрогеофизика](https://www.elibrary.ru/org_items.asp?orgsid=13859)                             
 Трусов А А https://www.elibrary.ru/author_items.asp?authorid=1119847                       
 
----- ИФЗ          
+#### ИФЗ          
 **Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
 ДРОБЫШЕВ М.Н. https://www.elibrary.ru/author_items.asp?authorid=831822                  
 КОНЕШОВ В.Н. https://www.elibrary.ru/author_items.asp?authorid=12137                         
@@ -146,7 +146,7 @@ https://elibrary.ru/author_items.asp?authorid=113534
 --- Институт теоретической и прикладной механики им. С.А. Христиановича СО РАН                       
 Глазнев В Н https://www.elibrary.ru/author_items.asp?authorid=8441           
 
---- Иркутск                    
+### Иркутск                    
 Давыденко А Ю https://www.elibrary.ru/author_items.asp?authorid=13293          
 
 ---- Институт вулканологии и сейсмологии ДВО РАН
