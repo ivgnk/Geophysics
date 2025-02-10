@@ -25,12 +25,12 @@ Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919
 Muryskin A S https://www.elibrary.ru/author_items.asp?authorid=966296  https://github.com/AlekseiMuryskin             
 Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://www.elibrary.ru/author_items.asp?authorid=145064          
 
----- АО "ВНИИ Галургии"
+#### АО "ВНИИ Галургии"
 Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893         
 Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                 
 
 
----- ПГНИУ            
+#### ПГНИУ            
 **ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                      
 Костицын В И https://www.elibrary.ru/author_items.asp?authorid=353458              
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
@@ -42,19 +42,19 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Коноплев А В https://www.elibrary.ru/author_items.asp?authorid=148730                    
 Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
 
----- ООО "ЛУКОЙЛ-ПЕРМЬ"                         
+#### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
 ПУТИЛОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=818699                   
 ЗАКЛЮЧНОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=1278512       
 
----- ПНГ                               
+#### ПНГ                               
 **[ПНГ](https://www.elibrary.ru/org_items.asp?orgsid=5798)**                        
 Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                     
 Савич А Д https://www.elibrary.ru/author_items.asp?authorid=521342                  
 Белов С В https://www.elibrary.ru/author_items.asp?authorid=836865                      
 Чистяков Н Ю https://www.elibrary.ru/author_items.asp?authorid=1236849              
 
----- ПНИПУ       
+#### ПНИПУ       
 **ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
 
 --- Екатеринбург         
