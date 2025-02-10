@@ -16,7 +16,7 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
 https://giab-online.ru/catalog/magazine
 
-Пермь 
+Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
 ПНИПУ - [Недропользование](https://ered.pstu.ru/index.php/geo)           https://vestnik.pstu.ru                 
 
