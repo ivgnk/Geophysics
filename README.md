@@ -97,11 +97,16 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 
 --- Саратов
 **[Саратовский государственный универстет](https://sgu.ru/)** https://old.sgu.ru
+https://www.elibrary.ru/org_items.asp?orgsid=259
+
+**Журнал [Недра Поволжья и Прикаспия /Саратов/](https://www.elibrary.ru/contents.asp?titleid=9817)**                              
+
 Геологический факультет 
 https://sgu.ru/struktura/geological
 https://old.sgu.ru/structure/geological
 
-[Кафедра общей геологии и полезных ископаемых](https://sgu.ru/struktura/geological/kafobshgeol) /магнитостратиграфия/             
+[Кафедра общей геологии и полезных ископаемых](https://sgu.ru/struktura/geological/kafobshgeol) /магнитостратиграфия, палеомагнетизм/             
+[Кафедра геологии и геохимии горючих ископаемых](https://www.sgu.ru/struktura/geological/kafgeohim)        
 
 
 
