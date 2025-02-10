@@ -164,17 +164,23 @@ https://elibrary.ru/author_items.asp?authorid=113534
 [Институт вулканологии и сейсмологии ДВО РАН](http://www.kscnet.ru/ivs/)            
 Рашидов В А https://www.elibrary.ru/author_items.asp?authorid=63138             
 
+### 🔴 Хабаровск 
+#### Хабаровский Федеральный исследовательский центр ДВО РАН                    
+http://www.khfrc.ru                  
+[Дисс советы](http://www.khfrc.ru/dissertacionnye-sovety.html)             
+
+#### Институт горного дела ДВО РАН                       
+http://igd.khv.ru/structure.html                
+
 ### 🔴 Владивосток                
-#### Дальневосточный геологический институт ДВО РАН
+#### Дальневосточный геологический институт ДВО РАН /Нет геофизики/
 https://fegi.ru                    
 [Диссертационный совет](https://fegi.ru/dissertation/diss-announce)              
 [Основные научные результаты](https://fegi.ru/science/results)          
 **[Электронная библиотека](https://fegi.ru/elibrary)**      
 
-#### ДВФУ
-https://www.dvfu.ru             
-[Институт Мирового океана](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/)      
-[Департамент наук о Земле](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/the-cluster-of-the-departments-of-earth-sciences/)                
+#### ДВФУ /Нет геофизики/
+https://www.dvfu.ru -> [Институт Мирового океана](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/) -> [Департамент наук о Земле](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/the-cluster-of-the-departments-of-earth-sciences/)                
 
 
 
