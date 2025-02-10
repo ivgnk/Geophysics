@@ -30,7 +30,10 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 Уфа - [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
 
-https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН                                    
+### Списки организаций               
+https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН     
+
+
 ### 🔴 Пермь       
 #### Горный институт УрО РАН     
 **[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
@@ -149,6 +152,11 @@ https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personal
 Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
 
 ### 🔴 Москва              
+#### Институт энергетических исследований РАН       
+https://www.eriras.ru               
+[Публикации](https://www.eriras.ru/data/5/rus)          
+
+
 #### Российский государственный геологоразведочный университет им. Серго Орджоникидзе (МГРИ РГГРУ)                                   
 **[Российский государственный геологоразведочный университет им. Серго Орджоникидзе](https://www.elibrary.ru/author_items.asp?orgsid=982)**                  
 Блох Ю И https://www.elibrary.ru/author_items.asp?authorid=137307                            
