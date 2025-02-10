@@ -7,13 +7,19 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 **[cyberleninka.ru: Науки о Земле и смежные экологические науки](https://cyberleninka.ru/article/c/earth-and-related-environmental-sciences)**      
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
-Москва                                
+
+**Москва**                                                
 [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
 [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
 [Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
+Горный информационно-аналитический бюллетень (научно-технический журнал)
+https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
+https://giab-online.ru/catalog/magazine
 
+Пермь 
+[Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
+[Недропользование /Вестник ПНИПУ/](https://ered.pstu.ru/index.php/geo)           https://vestnik.pstu.ru                 
 
-Пермь - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
 Петропавловск-Камчатский - [Вестник КРАУНЦ. Науки о Земле](http://www.kscnet.ru/journal/kraesc)          
 Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
 Саратов - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
