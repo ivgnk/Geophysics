@@ -6,8 +6,6 @@ https://en.wikipedia.org/wiki/Category:Geology_journals
 https://ru.wikipedia.org/wiki/Категория:Геологические_журналы                   
 **[cyberleninka.ru: Науки о Земле и смежные экологические науки](https://cyberleninka.ru/article/c/earth-and-related-environmental-sciences)**      
 
-Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
-
 **Москва**                                                
 [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
 [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
@@ -15,6 +13,11 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 Горный информационно-аналитический бюллетень (научно-технический журнал)
 https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
 https://giab-online.ru/catalog/magazine
+
+**Санкт-Петербург**           
+[Нефтегазовая геология. Теория и практика](https://ngtp.ru/rub/)         
+
+Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
 Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
