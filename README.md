@@ -94,7 +94,7 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 #### **[Саратовский государственный универстет](https://sgu.ru/)** https://old.sgu.ru
 https://www.elibrary.ru/org_items.asp?orgsid=259
 
-**Журнал [Недра Поволжья и Прикаспия /Саратов/](https://www.elibrary.ru/contents.asp?titleid=9817)**                              
+🔵 **Журнал [Недра Поволжья и Прикаспия /Саратов/](https://www.elibrary.ru/contents.asp?titleid=9817)**                              
 
 Геологический факультет 
 https://sgu.ru/struktura/geological
