@@ -24,7 +24,7 @@ https://giab-online.ru/catalog/magazine
 [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
 [Геология и окружающая среда (est. 2021)](http://geoenvir.ru/index.html)             
 
-Казань
+Казань                    
 [Георесурсы (est. 1999)](https://www.geors.ru/jour/issue/current)            
 
 Пермь                   
