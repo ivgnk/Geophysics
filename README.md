@@ -19,6 +19,7 @@ https://giab-online.ru/catalog/magazine
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 Иркутск 
+[Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 [Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
 [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
 [Геология и окружающая среда  (est. 2021)](http://geoenvir.ru/index.html)             
