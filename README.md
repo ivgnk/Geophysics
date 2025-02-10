@@ -95,6 +95,25 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Воронежский государственный универстет             
 Антонов Ю В https://www.elibrary.ru/author_items.asp?authorid=4336                             
 
+--- Саратов
+**[Саратовский государственный универстет](https://sgu.ru/)** https://old.sgu.ru
+Геологический факультет 
+https://sgu.ru/struktura/geological
+https://old.sgu.ru/structure/geological
+
+[Кафедра общей геологии и полезных ископаемых](https://sgu.ru/struktura/geological/kafobshgeol) /магнитостратиграфия/             
+
+
+
+Кафедра геологии и геохимии горючих ископаемых 
+https://old.sgu.ru/structure/geological/kafgeohim
+
+
+https://old.sgu.ru/structure/geological/kafgeofiz
+https://old.sgu.ru/structure/geological/kafgeofiz
+[Губатенко В.П. (1947-2020)](https://old.sgu.ru/structure/geological/kafgeofiz/news/2020-03-04/pamyati-v-p-gubatenko) 
+https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personalii/gubatenko-valeriypetrovich/
+
 --- Петербург 
 Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
 
