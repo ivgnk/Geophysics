@@ -30,7 +30,7 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 Уфа - [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
 
-
+https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН                                    
 ### 🔴 Пермь       
 #### Горный институт УрО РАН     
 **[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
