@@ -22,8 +22,10 @@ https://giab-online.ru/catalog/magazine
 [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 [Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
 [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
-[Геология и окружающая среда  (est. 2021)](http://geoenvir.ru/index.html)             
+[Геология и окружающая среда (est. 2021)](http://geoenvir.ru/index.html)             
 
+Казань
+[Георесурсы (est. 1999)](https://www.geors.ru/jour/issue/current)            
 
 Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
