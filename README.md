@@ -226,5 +226,9 @@ https://fegi.ru
 #### ДВФУ /Нет геофизики/
 https://www.dvfu.ru -> [Институт Мирового океана](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/) -> [Департамент наук о Земле](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/the-cluster-of-the-departments-of-earth-sciences/)                
 
-
+### 🔴 Южно-Сахалинск (180(323)/457 тыс.)                      
+#### Институт морской геологии и геофизики ДВО РАН                       
+http://www.imgg.ru/ru               
+https://www.elibrary.ru/org_items.asp?orgsid=440                     
+[Лаборатория сейсмологии](http://www.imgg.ru/ru/teams/lab-seismology)                  
 
