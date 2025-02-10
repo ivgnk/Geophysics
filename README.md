@@ -165,12 +165,16 @@ https://elibrary.ru/author_items.asp?authorid=113534
 Рашидов В А https://www.elibrary.ru/author_items.asp?authorid=63138             
 
 ### 🔴 Владивосток                
-#### **[Дальневосточный геологический институт ДВО РАН](https://fegi.ru/)**         
+#### Дальневосточный геологический институт ДВО РАН
+https://fegi.ru                    
 [Диссертационный совет](https://fegi.ru/dissertation/diss-announce)              
 [Основные научные результаты](https://fegi.ru/science/results)          
 **[Электронная библиотека](https://fegi.ru/elibrary)**      
 
-[ДВФУ]()  
+#### ДВФУ
+https://www.dvfu.ru             
+[Институт Мирового океана](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/)      
+[Департамент наук о Земле](https://www.dvfu.ru/institute_of_the_world_ocean/struktura/the-cluster-of-the-departments-of-earth-sciences/)                
 
 
 
