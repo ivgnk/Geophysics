@@ -4,9 +4,10 @@
 ### 🔵 Журналы  
 https://en.wikipedia.org/wiki/Category:Geology_journals                  
 https://ru.wikipedia.org/wiki/Категория:Геологические_журналы                   
+**[cyberleninka.ru: Науки о Земле и смежные экологические науки](https://cyberleninka.ru/article/c/earth-and-related-environmental-sciences)**      
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
-Москва
+Москва                                
 [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
 [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
 [Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
