@@ -17,8 +17,8 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 https://giab-online.ru/catalog/magazine
 
 Пермь 
-[Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
-[Недропользование /Вестник ПНИПУ/](https://ered.pstu.ru/index.php/geo)           https://vestnik.pstu.ru                 
+ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
+ПНИПУ - [Недропользование](https://ered.pstu.ru/index.php/geo)           https://vestnik.pstu.ru                 
 
 Петропавловск-Камчатский - [Вестник КРАУНЦ. Науки о Земле](http://www.kscnet.ru/journal/kraesc)          
 Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
