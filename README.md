@@ -201,6 +201,10 @@ https://www.elibrary.ru/org_items.asp?orgsid=13823
 http://www.khfrc.ru             
 [Диссертационный совет](http://www.khfrc.ru/dissertacionnye-sovety.html)             
 
+#### Институт тектоники и геофизики им. Ю.А. Косыгина ДВО РАН              
+http://itig.as.khb.ru                 
+[Лаборатория региональной геофизики и петрофизики](http://itig.as.khb.ru/lab_g_p.html)             
+
 #### Институт горного дела ДВО РАН                       
 http://igd.khv.ru/structure.html           
 [Основные результаты](http://igd.khv.ru/nauchnaya-deyatelnost/osnovnye-rezultaty.html)            
