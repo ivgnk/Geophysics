@@ -8,7 +8,7 @@
 Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
 Саратов - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
 Уфа - [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
-
+Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
 
 
 ### 🔴 Пермь       
@@ -170,10 +170,13 @@ http://www.khfrc.ru
 [Диссертационный совет](http://www.khfrc.ru/dissertacionnye-sovety.html)             
 
 #### Институт горного дела ДВО РАН                       
-http://igd.khv.ru/structure.html                
+http://igd.khv.ru/structure.html           
+[Основные результаты](http://igd.khv.ru/nauchnaya-deyatelnost/osnovnye-rezultaty.html)            
 [Диссертационный совет](http://igd.khv.ru/education/dissovet/dissertacionnyj-sovet1.html)                
 [Лаборатория горной геофизики](http://igd.khv.ru/structure/nauchnye-laboratorii/laboratoriya-gornoj-geofiziki.html)               
 Заведующий лабораторией д-р техн. наук Шкабарня Николай Георгиевич                      
+Шкабарня Н Г https://www.elibrary.ru/author_items.asp?authorid=102478                 
+Шкабарня Г Н https://www.elibrary.ru/author_items.asp?authorid=115750                   
 
 
 ### 🔴 Владивосток                
