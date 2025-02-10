@@ -18,6 +18,11 @@ https://giab-online.ru/catalog/magazine
 **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
+Иркутск 
+[Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
+[Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
+[Геология и окружающая среда  (est. 2021)](http://geoenvir.ru/index.html)             
+
 
 Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
