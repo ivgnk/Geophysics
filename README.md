@@ -36,9 +36,10 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
 Саратов - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
 
-Уфа
-[Геологический вестник](http://geolvestnik.ru/volumes/)           
+Уфа                     
 [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
+[Геологический вестник](http://geolvestnik.ru/volumes/)           
+
 
 Хабаровск - [Тихоокеанская геология](http://itig.as.khb.ru/POG/index.html)                   
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
