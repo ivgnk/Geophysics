@@ -15,8 +15,10 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 https://giab-online.ru/catalog/magazine
 
 **Санкт-Петербург**           
-Горный университет - **[Записки Горного института](https://pmi.spmi.ru/pmi/issue/archive)**                               
 ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
+СПбГУ - [Вестник Санкт-Петербургского университета. Науки о Земле](https://escjournal.spbu.ru/issue/archive)           
+Горный университет - **[Записки Горного института](https://pmi.spmi.ru/pmi/issue/archive)**                               
+
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
