@@ -18,7 +18,7 @@ https://giab-online.ru/catalog/magazine
 ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
 СПбГУ - [Вестник Санкт-Петербургского университета. Науки о Земле](https://escjournal.spbu.ru/issue/archive)           
 Горный университет - **[Записки Горного института](https://pmi.spmi.ru/pmi/issue/archive)**                               
-
+Геологический институт им. А.П. Карпинского - [Региональная геология и металлогения (est. 1993)](https://reggeomet.ru/current)               
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
