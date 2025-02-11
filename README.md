@@ -99,7 +99,7 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
 Луппов Владимир Иванович  https://www.elibrary.ru/author_items.asp?authorid=991337           
 Некрасов Александр Сергеевич https://www.elibrary.ru/author_items.asp?authorid=1179544                     
-Плешков Л.Д. https://www.elibrary.ru/author_items.asp?authorid=1015736                               
+Плешков Лев Дмитриевич https://www.elibrary.ru/author_items.asp?authorid=1015736                               
 Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767           
 
 Середин Валерий Викторович https://www.elibrary.ru/author_items.asp?authorid=434105                      
