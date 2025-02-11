@@ -213,8 +213,9 @@ https://www.elibrary.ru/org_items.asp?orgsid=199
 Кафедра общей геологии и геодинамики 
 [Кафедра геофизики](https://www.vsu.ru/ru/persons/?dep=35)                 
 Антонов Ю В https://www.elibrary.ru/author_items.asp?authorid=4336                             
-Глазнев Виктор Николаевич https://www.elibrary.ru/author_items.asp?authorid=8441           
 Антонова И Ю https://www.elibrary.ru/author_items.asp?authorid=699981                        
+Аузин Андрей Альбертович https://www.elibrary.ru/author_items.asp?authorid=126841                     
+Глазнев Виктор Николаевич https://www.elibrary.ru/author_items.asp?authorid=8441           
 
 Кафедра исторической геологии и палеонтологии 
 Кафедра гидрогеологии, инженерной геологии и геоэкологии 
