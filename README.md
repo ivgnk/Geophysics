@@ -192,7 +192,7 @@ https://old.sgu.ru/structure/geological/kafgeofiz
 https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personalii/gubatenko-valeriypetrovich/
 
 ### 🔴 Петербург 
-Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479                 
+Калинин Д Ф https://www.elibrary.ru/author_items.asp?authorid=11479  (Горный институт, Геологоразведочный факультет, Кафедра геофизики )               
 
 ### 🔴 Москва              
 #### Институт энергетических исследований РАН (Отделение энергетики, машиностроения, механики и процессов управления РАН)      
