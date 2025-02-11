@@ -35,6 +35,7 @@ https://giab-online.ru/catalog/magazine
 
 Казань                    
 [Георесурсы (est. 1999)](https://www.geors.ru/jour/issue/current)            
+[Ученые записки Казанского университета. Серия Естественные науки](https://kpfu.ru/uz-rus/ns)             
 
 Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
@@ -143,6 +144,12 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 Федорова О.И. https://www.elibrary.ru/author_items.asp?authorid=148711                     
 Ратушняк А.Н. https://www.elibrary.ru/author_items.asp?authorid=17020                             
 Иголкина Г.В. https://www.elibrary.ru/author_items.asp?authorid=122067                           
+
+
+### 🔴 Казань          
+#### КФУ Институт геологии и нефтегазовых технологий                        
+**https://geo.kpfu.ru**                                          
+
 
 ### 🔴 Воронеж            
 Воронежский государственный универстет             
