@@ -8,7 +8,7 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 
 **Москва**                                                
 [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
-[Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
+Геологический институт РАН - [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
 [Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
 Горный информационно-аналитический бюллетень (научно-технический журнал)
 https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
@@ -28,10 +28,10 @@ https://giab-online.ru/catalog/magazine
 ИГД УрО РАН - [Проблемы недропользования](https://trud.igduran.ru/index.php/psu/issue/archive)                   
 
 Иркутск                    
-[Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
-[Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
+ИЗК СО РАН - [Геодинамика и тектонофизика (est.2010)](https://www.gt-crust.ru/jour/issue/current)          
 ИркГУ - [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
-[Геология и окружающая среда (est. 2021)](http://geoenvir.ru/index.html)             
+ИркГУ - [Геология и окружающая среда (est. 2021)](http://geoenvir.ru/index.html)             
+ИРНИТУ - [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 
 Казань                    
 [Георесурсы (est. 1999)](https://www.geors.ru/jour/issue/current)            
