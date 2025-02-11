@@ -7,7 +7,8 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 **[cyberleninka.ru: Науки о Земле и смежные экологические науки](https://cyberleninka.ru/article/c/earth-and-related-environmental-sciences)**      
 
 
-**Москва**                                                
+**Москва**                     
+МГУ - [Вестник Московского университета. Серия 4. Геология](https://vestnik.geol.msu.ru/jour/issue/current)                
 ВНИГНИ - [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
 Геологический институт РАН - [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
 ЦНИГРИ - [Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
