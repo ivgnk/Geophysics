@@ -148,7 +148,11 @@ Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938
 
 ### 🔴 Казань          
 #### КФУ Институт геологии и нефтегазовых технологий                        
-**https://geo.kpfu.ru**                                          
+**https://geo.kpfu.ru**                   
+https://www.elibrary.ru/org_items.asp?orgsid=198               
+[Кафедра геофизики и геоинформационных технологий](https://geo.kpfu.ru/sotrudniki-kafedry-geofiziki-i-geoinformatsionnyh-tehnologij/)              
+Слепак Захар Моисеевич https://www.elibrary.ru/author_items.asp?authorid=60768  https://kpfu.ru/Zakhar.Slepak                                                
+Утемов Эдуард Валерьевич https://www.elibrary.ru/author_items.asp?authorid=70436 https://kpfu.ru/Edward.Utemov                     
 
 
 ### 🔴 Воронеж            
