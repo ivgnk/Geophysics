@@ -10,9 +10,9 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 [Геология нефти и газа (2020-2023)](https://oilandgasgeology.ru/архив/)                 
 Геологический институт РАН - [Литология и полезные ископаемые (1963-1994)](http://ginras.ru/library/papers.php?m=lip&p=0&l=30000)               
 [Руды и металлы](https://rm.tsnigri.ru/index.php/main/issue/archive)     
-Горный информационно-аналитический бюллетень (научно-технический журнал)
+[Горный информационно-аналитический бюллетень (научно-технический журнал)](https://giab-online.ru/catalog/magazine)                            
 https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
-https://giab-online.ru/catalog/magazine
+
 
 **Санкт-Петербург**           
 ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
