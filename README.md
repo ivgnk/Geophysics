@@ -64,6 +64,7 @@ https://ru.wikipedia.org/wiki/Отделение_энергетики,_маши�
 **[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**       
 <details>
    <summary>Сотрудники</summary>           
+   
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
