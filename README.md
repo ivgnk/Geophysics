@@ -15,7 +15,8 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 https://giab-online.ru/catalog/magazine
 
 **Санкт-Петербург**           
-**[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
+СПбГУ - **[Записки Горного института](https://pmi.spmi.ru/pmi/issue/archive)**                               
+ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
@@ -27,7 +28,7 @@ https://giab-online.ru/catalog/magazine
 Иркутск                    
 [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 [Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
-[Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
+ИркГУ - [Известия Иркутского государственного университета. Серия Науки о Земле](https://izvestiageo.isu.ru/ru/archive)            
 [Геология и окружающая среда (est. 2021)](http://geoenvir.ru/index.html)             
 
 Казань                    
@@ -39,8 +40,9 @@ https://giab-online.ru/catalog/magazine
 https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelskogo-politehnicheskogo-universiteta-geologiya-neftegazovoe-i-gornoe-delo?i=1137818
 
 Петропавловск-Камчатский - [Вестник КРАУНЦ. Науки о Земле](http://www.kscnet.ru/journal/kraesc)          
-Саратов - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
-Саратов - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
+Саратов 
+НВНИИГГ - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
+СаратГУ - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
 
 Уфа                     
 [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
