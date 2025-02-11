@@ -18,6 +18,11 @@ https://giab-online.ru/catalog/magazine
 **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
+
+Екатеринбург
+ИГГ УрО РАН [Литосфера](https://www.lithosphere.ru/jour/issue/current)             
+ИГ УрО РАН - [Уральский геофизический вестник](http://igfuroran.ru/zhurnal-uralskij-geofizicheskij-vestnik/arkhiv-vypuskov)       
+
 Иркутск                    
 [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
 [Геодинамика и тектонофизика](https://www.gt-crust.ru/jour/issue/current)          
