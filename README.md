@@ -104,7 +104,7 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 
 Середин В В https://www.elibrary.ru/author_items.asp?authorid=434105                      
 Коноплев А В https://www.elibrary.ru/author_items.asp?authorid=148730                    
-Tatarkin A V https://elibrary.ru/author_profile.asp?authorid=147938                   
+Татаркин Алексей Викторович https://elibrary.ru/author_profile.asp?authorid=147938 https://www.elibrary.ru/author_items.asp?authorid=147938                  
 
 #### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
