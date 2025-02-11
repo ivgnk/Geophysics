@@ -19,7 +19,7 @@ https://giab-online.ru/catalog/magazine
 
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
-Екатеринбург
+Екатеринбург                               
 ИГГ УрО РАН [Литосфера](https://www.lithosphere.ru/jour/issue/current)             
 ИГ УрО РАН - [Уральский геофизический вестник](http://igfuroran.ru/zhurnal-uralskij-geofizicheskij-vestnik/arkhiv-vypuskov)       
 
