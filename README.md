@@ -97,7 +97,7 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 **ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                      
 Костицын В И https://www.elibrary.ru/author_items.asp?authorid=353458              
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
-Луппов В И 
+Луппов В И  https://www.elibrary.ru/author_items.asp?authorid=991337                                            
 ПЛЕШКОВ Л.Д. https://www.elibrary.ru/author_items.asp?authorid=1015736                               
 Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767           
 
