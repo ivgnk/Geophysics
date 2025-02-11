@@ -20,8 +20,9 @@ https://giab-online.ru/catalog/magazine
 Воронеж - [Вестник ВГУ. Серия: Геология](https://journals.vsu.ru/geology/issue/archive)                  
 
 Екатеринбург                               
-ИГГ УрО РАН [Литосфера](https://www.lithosphere.ru/jour/issue/current)             
 ИГ УрО РАН - [Уральский геофизический вестник](http://igfuroran.ru/zhurnal-uralskij-geofizicheskij-vestnik/arkhiv-vypuskov)       
+ИГГ УрО РАН [Литосфера](https://www.lithosphere.ru/jour/issue/current)             
+ИГД УрО РАН [Проблемы недропользования](https://trud.igduran.ru/index.php/psu/issue/archive)                   
 
 Иркутск                    
 [Науки о Земле и недропользование (Геология, поиски и разведка месторождений рудных полезных ископаемых)](https://www.nznj.ru/jour)                   
