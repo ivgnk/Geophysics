@@ -61,7 +61,9 @@ https://ru.wikipedia.org/wiki/Отделение_энергетики,_маши�
 
 ### 🔴 Пермь       
 #### Горный институт УрО РАН     
-**[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**                           
+**[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**       
+<details>
+   <summary>Сотрудники</summary>           
 БЫЧКОВ С.Г. https://www.elibrary.ru/author_items.asp?authorid=132391                  
 Genik I V https://www.elibrary.ru/author_profile.asp?authorid=67312             
 Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941                
@@ -80,6 +82,7 @@ Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919
 Тайницкий Александр Александрович https://elibrary.ru/author_profile.asp?authorid=851846                      
 Кичигин Андрей Владимирович https://elibrary.ru/author_profile.asp?authorid=771102                        
 Паршаков Евгений Иосифович https://elibrary.ru/author_profile.asp?authorid=1108081 https://www.elibrary.ru/author_items.asp?authorid=1108081                            
+</details>
 
 Muryskin A S https://www.elibrary.ru/author_items.asp?authorid=966296  https://github.com/AlekseiMuryskin             
 Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://www.elibrary.ru/author_items.asp?authorid=145064          
