@@ -62,6 +62,18 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН     
 https://ru.wikipedia.org/wiki/Отделение_энергетики,_машиностроения,_механики_и_процессов_управления_РАН                     
 
+### 🔴 Респ. Коми           
+Ухтинский государственный технический университет, Геолого-разведочный факультет (Ухта)                       
+https://elibrary.ru/org_items.asp?orgsid=4750                     
+Вельтистова О М https://elibrary.ru/author_items.asp?authorid=679582                         
+Кобрунов Александр Иванович https://elibrary.ru/author_items.asp?authorid=104219                     
+Кожевникова П В https://elibrary.ru/author_items.asp?authorid=962098               
+Могутов А С https://elibrary.ru/author_items.asp?authorid=611625           
+Мотрюк Е Н https://elibrary.ru/author_items.asp?authorid=388746            
+Овчарова Т А https://elibrary.ru/author_items.asp?authorid=398927                
+Шилова С В https://elibrary.ru/author_items.asp?authorid=750496             
+
+
 ### 🔴 Пермь       
 #### Горный институт УрО РАН     
 **[ПФИЦ УрО РАН](https://www.elibrary.ru/org_items.asp?orgsid=14797)**       
@@ -208,6 +220,13 @@ https://elibrary.ru/author_items.asp?authorid=66113
 Ретеюм Алексей Юрьевич (МГУ)              
 https://elibrary.ru/author_items.asp?authorid=113534                            
 
+#### АО "ИГиРГИ"
+https://elibrary.ru/org_items.asp?orgsid=2045                   
+https://www.igirgi.su      
+https://vk.com/igirgi      
+https://geol.msu.ru/sites/default/files/filefield_paths/igirgi_4.pdf                  
+
+Грунис Е Б https://elibrary.ru/author_items.asp?authorid=534793               
 
 ### 🔴 Воронеж                 
 Воронежский государственный универстет                         
