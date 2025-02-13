@@ -305,6 +305,7 @@ https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personal
 Диссертации https://elib.sfu-kras.ru/handle/2311/26024
 ВКР 
 https://elib.sfu-kras.ru/handle/2311/26348               
+https://elib.sfu-kras.ru/handle/2311/26387                  
 https://elib.sfu-kras.ru/handle/2311/10400                
 
 #### Красноярский научный центр СО РАН                       
