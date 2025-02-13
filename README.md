@@ -1,5 +1,7 @@
 # Literature
 ## in Russuan 
+**[Список российских научных журналов, размещенных на платформе eLIBRARY.RU, которые имеют открытые для всех полнотекстовые выпуски](https://elibrary.ru/projects/subscription/rus_titles_free.asp)**
+
 
 ### 🔵 Журналы, сборники и другие издания                 
 https://en.wikipedia.org/wiki/Category:Geology_journals                  
@@ -85,6 +87,7 @@ https://elibrary.ru/titlerefgroup_ex.asp?titlerefgroupid=30
 Вестник Пермского федерального исследовательского центра https://elibrary.ru/titlerefgroup.asp?titlerefgroupid=5                   
 Энергия: экономика, техника, экология https://elibrary.ru/contents.asp?id=44630886 (по 2021)             
 Ученые заметки ТОГУ https://elibrary.ru/contents.asp?id=65598934                     
+- - - -
 
 ### Списки организаций               
 https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН     
