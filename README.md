@@ -83,6 +83,9 @@ Cборники УГТУ - https://www.ugtu.net/science/collection
 https://elibrary.ru/titlerefgroup_ex.asp?titlerefgroupid=30                            
 Уральский геологический журнал (est. 1998) https://www.ural-geol-j.net/archive                      
 
+Книги, исключенные из РИНЦ: Геология, геофизика                
+https://elibrary.ru/books.asp
+
 ⚪ **Журналы, которые должны предоставлять рецензии в РИНЦ**                 
 Вестник Пермского федерального исследовательского центра https://elibrary.ru/titlerefgroup.asp?titlerefgroupid=5                   
 Энергия: экономика, техника, экология https://elibrary.ru/contents.asp?id=44630886 (по 2021)             
