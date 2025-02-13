@@ -28,6 +28,7 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 ИГ УрО РАН - [Уральский геофизический вестник](http://igfuroran.ru/zhurnal-uralskij-geofizicheskij-vestnik/arkhiv-vypuskov)       
 ИГГ УрО РАН - [Литосфера](https://www.lithosphere.ru/jour/issue/current)             
 ИГД УрО РАН - [Проблемы недропользования](https://trud.igduran.ru/index.php/psu/issue/archive)                   
+Глубинное строение. геодинамика. тепловое поле Земли. интерпретация геофизичеких полей. научные чтения памяти Ю.П. Булашевича
 
 Иркутск                    
 ИЗК СО РАН - [Геодинамика и тектонофизика (est.2010)](https://www.gt-crust.ru/jour/issue/current)          
@@ -254,6 +255,17 @@ https://old.sgu.ru/structure/geological/kafgeofiz
 https://old.sgu.ru/structure/geological/kafgeofiz
 [Губатенко В.П. (1947-2020)](https://old.sgu.ru/structure/geological/kafgeofiz/news/2020-03-04/pamyati-v-p-gubatenko) 
 https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personalii/gubatenko-valeriypetrovich/
+
+
+### 🔴 Красноярск    
+Красноярский научный центр СО РАН
+https://elibrary.ru/org_items.asp?orgsid=73
+
+**Институт вычислительного моделирования СО РАН**                             
+**Кочнев Владимир Алексеевич**                
+https://elibrary.ru/author_items.asp?authorid=58190     
+[Кочнев Владимир Алексеевич Curriculum vitae](https://icm.krasn.ru/personal.php?persid=81&item=1)                    
+[Список публикаций В. А. Кочнева](https://icm.krasn.ru/refs.php?persid=81)           
 
 ### 🔴 Новосибирск                         
 
