@@ -50,13 +50,16 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 НВНИИГГ - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
 СаратГУ - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
 
-Сыктывкар 
+Сыктывкар                      
 Институт геологии - [Вестник Института геологии Коми научного центра УрО РАН](https://geo.komisc.ru/vestnik/contents-of-the-journal)                    
 
 Уфа                     
 [Нефтегазовое дело](https://ngdelo.ru/issue/archive)              
 [Геологический вестник](http://geolvestnik.ru/volumes/)           
 
+Ухта     
+Cборники УГТУ - https://www.ugtu.net/science/collection                         
+Журналы УГТУ - [Инженер-нефтяник](http://инженер-нефтяник.рф)         
 
 Хабаровск - [Тихоокеанская геология](http://itig.as.khb.ru/POG/index.html)                   
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
@@ -74,9 +77,13 @@ https://geo.komisc.ru
 [Важнейшие результаты](https://geo.komisc.ru/science_results/main-results)            
 [Институт геологии Коми НЦ Уро РАН: история научного поиска и открытий](https://research-journal.org/archive/10-17-2013-october/institute-of-geology-of-the-komi-sc-of-the-ub-of-the-ras-the-history-of-scientific-research-and-discoveries)        https://geo.komisc.ru/science_results/scientific-publication                     
 
+#### Ухтинский государственный технический университет
+https://www.ugtu.net/university/struct               
+Нефтегазовый факультет, Кафедра поисков и разведки месторождений полезных ископаемых              
+https://www.ugtu.net/studentu/ucheb-podrazdel/nf/prmpi                           
+[Диссертационные советы](https://www.ugtu.net/science/dissovet)                 
 
-
-#### Ухтинский государственный технический университет, Геолого-разведочный факультет (Ухта)                       
+, Геолого-разведочный факультет (Ухта)                       
 https://elibrary.ru/org_items.asp?orgsid=4750                     
 Вельтистова О М https://elibrary.ru/author_items.asp?authorid=679582                         
 Кобрунов Александр Иванович https://elibrary.ru/author_items.asp?authorid=104219                     
