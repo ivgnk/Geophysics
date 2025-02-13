@@ -77,8 +77,14 @@ Cборники УГТУ - https://www.ugtu.net/science/collection
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
 
 - - - -
-⛔⛔ **Журналы, исключенные из РИНЦ** https://elibrary.ru/titlerefgroup_ex.asp?titlerefgroupid=30                       
+⛔⛔ **Журналы, исключенные из РИНЦ**          
+https://elibrary.ru/titlerefgroup_ex.asp?titlerefgroupid=30                            
 Уральский геологический журнал (est. 1998) https://www.ural-geol-j.net/archive                      
+
+⚪ **Журналы, которые должны предоставлять рецензии в РИНЦ**                 
+Вестник Пермского федерального исследовательского центра https://elibrary.ru/titlerefgroup.asp?titlerefgroupid=5                   
+Энергия: экономика, техника, экология https://elibrary.ru/contents.asp?id=44630886 (по 2021)             
+Ученые заметки ТОГУ https://elibrary.ru/contents.asp?id=65598934                     
 
 ### Списки организаций               
 https://ru.wikipedia.org/wiki/Отделение_наук_о_Земле_РАН     
