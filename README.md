@@ -59,7 +59,7 @@ https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelsk
 
 Ухта     
 Cборники УГТУ - https://www.ugtu.net/science/collection                         
-Журналы УГТУ - [Инженер-нефтяник](http://инженер-нефтяник.рф)         
+[Журналы УГТУ](https://www.ugtu.net/science/zhurnaly) - [Инженер-нефтяник](http://инженер-нефтяник.рф)         
 
 Хабаровск - [Тихоокеанская геология](http://itig.as.khb.ru/POG/index.html)                   
 Южно-Сахалинск - [Геосистемы переходных зон (est. 2016)](https://www.elibrary.ru/title_items.asp?id=64191)                
