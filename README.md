@@ -15,9 +15,9 @@ https://ru.wikipedia.org/wiki/Категория:Геологические_жу
 Изд. «Горная книга» - [Горный информационно-аналитический бюллетень (научно-технический журнал)](https://giab-online.ru/catalog/magazine)                            
 https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten-nauchno-tehnicheskiy-zhurnal?i=1142767                        
 **[Российское геологическое общество](https://rosgeo.org/izdatelstvo/)** https://elibrary.ru/org_items.asp?orgsid=18763 - 
-+ Отечественная геология https://elibrary.ru/contents.asp?titleid=7927            
-+ Разведка и охрана недр https://elibrary.ru/contents.asp?id=42591524 (по 2020 - св.доступ) http://rion-journal.com/category/issues/ (2005 - 2014)
-+ Минеральные ресурсы России. Экономика и управление https://elibrary.ru/contents.asp?id=44877735                  
+_ Отечественная геология https://elibrary.ru/contents.asp?titleid=7927            
+_ Разведка и охрана недр https://elibrary.ru/contents.asp?id=42591524 (по 2020 - св.доступ) http://rion-journal.com/category/issues/ (2005 - 2014)
+_ Минеральные ресурсы России. Экономика и управление https://elibrary.ru/contents.asp?id=44877735                  
 
 
 **Санкт-Петербург**           
