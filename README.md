@@ -40,12 +40,20 @@ https://cyberleninka.ru/journal/n/gornyy-informatsionno-analiticheskiy-byulleten
 [Георесурсы (est. 1999)](https://www.geors.ru/jour/issue/current)            
 [Ученые записки Казанского университета. Серия Естественные науки](https://kpfu.ru/uz-rus/ns)             
 
+Красноярск               
+"Глобус: геология и бизнес" https://www.vnedra.ru/   https://vk.com/vnedraglobus                          
+
+Новосибирск
+СО РАН - **Геология и геофизика** http://www.ipgg.sbras.ru/ru/science/journals/gg                                 
+**https://elibrary.ru/contents.asp?titleid=7762**                                      
+
 Пермь                   
 ПГНИУ - [Вестник Пермского университета. Геология](http://geology-vestnik.psu.ru/index.php/geology/issue/archive)            
 ПНИПУ - [Недропользование](https://ered.pstu.ru/index.php/geo)           https://vestnik.pstu.ru                 
 https://cyberleninka.ru/journal/n/vestnik-permskogo-natsionalnogo-issledovatelskogo-politehnicheskogo-universiteta-geologiya-neftegazovoe-i-gornoe-delo?i=1137818
 
 Петропавловск-Камчатский - [Вестник КРАУНЦ. Науки о Земле](http://www.kscnet.ru/journal/kraesc)          
+
 Саратов 
 НВНИИГГ - [Недра Поволжья и Прикаспия](https://www.elibrary.ru/contents.asp?titleid=9817)                                               
 СаратГУ - [Известия Саратовского университета. Новая серия. Серия науки о Земле](https://geo.sgu.ru/ru/journal/issues)           
