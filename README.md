@@ -232,6 +232,10 @@ https://www.elibrary.ru/org_items.asp?orgsid=198
 #### Министерства и другие организации           
 ❗ Министерство природных ресурсов и экологии РФ - https://elibrary.ru/org_items.asp?orgsid=2188                           
 Министерство энергетики РФ https://elibrary.ru/org_items.asp?orgsid=20285            
+НК Роснефть https://elibrary.ru/org_items.asp?orgsid=2280                    
+НК Зарубежнефть https://elibrary.ru/org_items.asp?orgsid=4449             
+НК Татненфть https://elibrary.ru/org_items.asp?orgsid=2268     
+НК Башнефть https://elibrary.ru/org_items.asp?orgsid=15313                 
 
 #### МГУ Геологический факультет
 https://geol.msu.ru/
