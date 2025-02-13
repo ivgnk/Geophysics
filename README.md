@@ -77,14 +77,14 @@ https://geo.komisc.ru
 [Важнейшие результаты](https://geo.komisc.ru/science_results/main-results)            
 [Институт геологии Коми НЦ Уро РАН: история научного поиска и открытий](https://research-journal.org/archive/10-17-2013-october/institute-of-geology-of-the-komi-sc-of-the-ub-of-the-ras-the-history-of-scientific-research-and-discoveries)        https://geo.komisc.ru/science_results/scientific-publication                     
 
-#### Ухтинский государственный технический университет
+#### Ухтинский государственный технический университет                           
+https://elibrary.ru/org_items.asp?orgsid=4750                     
 https://www.ugtu.net/university/struct               
+
 Нефтегазовый факультет, Кафедра поисков и разведки месторождений полезных ископаемых              
 https://www.ugtu.net/studentu/ucheb-podrazdel/nf/prmpi                           
 [Диссертационные советы](https://www.ugtu.net/science/dissovet)                 
 
-, Геолого-разведочный факультет (Ухта)                       
-https://elibrary.ru/org_items.asp?orgsid=4750                     
 Вельтистова О М https://elibrary.ru/author_items.asp?authorid=679582                         
 Кобрунов Александр Иванович https://elibrary.ru/author_items.asp?authorid=104219                     
 Кожевникова П В https://elibrary.ru/author_items.asp?authorid=962098               
