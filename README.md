@@ -258,10 +258,12 @@ https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personal
 
 
 ### 🔴 Красноярск    
-Красноярский научный центр СО РАН
-https://elibrary.ru/org_items.asp?orgsid=73
+Красноярский научный центр СО РАН                       
+https://elibrary.ru/org_items.asp?orgsid=73                    
 
-**Институт вычислительного моделирования СО РАН**                             
+**Институт вычислительного моделирования СО РАН**             
+https://icm.krasn.ru                            
+
 **Кочнев Владимир Алексеевич**                
 https://elibrary.ru/author_items.asp?authorid=58190     
 [Кочнев Владимир Алексеевич Curriculum vitae](https://icm.krasn.ru/personal.php?persid=81&item=1)                    
