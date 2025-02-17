@@ -182,6 +182,8 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Кожевникова Е Е https://elibrary.ru/author_items.asp?authorid=988533           
 Красильников В П https://elibrary.ru/author_items.asp?authorid=940798                      
 Карасева Т В https://elibrary.ru/author_items.asp?authorid=337963              
+Кузнецова Е А https://elibrary.ru/author_items.asp?authorid=1037041                  
+
 
 #### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
