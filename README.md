@@ -205,7 +205,7 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Галкин С В https://elibrary.ru/author_items.asp?authorid=62858                
 Лядова Н А https://elibrary.ru/author_items.asp?authorid=62859             
 Хижняк Г П https://elibrary.ru/author_items.asp?authorid=466340                   
-
+Мерсон М Э https://elibrary.ru/author_items.asp?authorid=598710                   
 
 ### 🔴 Екатеринбург         
 #### ИГ УрО РАН                     
