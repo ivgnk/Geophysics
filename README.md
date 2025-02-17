@@ -176,6 +176,10 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 **Ибламинов Р Г** https://elibrary.ru/author_items.asp?authorid=69438        
 Казымов К П https://elibrary.ru/author_items.asp?authorid=334952                  
 
+Яковлев Ю А https://elibrary.ru/author_items.asp?authorid=598958             
+Башкова С Е https://elibrary.ru/author_items.asp?authorid=820945            
+Кожевникова Е Е https://elibrary.ru/author_items.asp?authorid=988533                  
+
 #### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
 Воеводкин В Л https://elibrary.ru/author_items.asp?authorid=1069472                 
