@@ -250,11 +250,11 @@ https://www.elibrary.ru/org_items.asp?orgsid=198
 НК Татненфть https://elibrary.ru/org_items.asp?orgsid=2268     
 НК Башнефть https://elibrary.ru/org_items.asp?orgsid=15313                 
 
-#### Генофизическая служба РАН
-http://www.gsras.ru/new/struct/admin.htm
-Маловичко А А https://elibrary.ru/author_items.asp?authorid=60402         
-Маловичко Д А https://elibrary.ru/author_items.asp?authorid=118572               
-Дягилев Р А https://elibrary.ru/author_items.asp?authorid=118573                
+#### Генофизическая служба РАН                        
+http://www.gsras.ru/new/struct/admin.htm                           
+Маловичко А А https://elibrary.ru/author_items.asp?authorid=60402                           
+Маловичко Д А https://elibrary.ru/author_items.asp?authorid=118572                           
+Дягилев Р А https://elibrary.ru/author_items.asp?authorid=118573                     
 
 #### МГУ Геологический факультет
 https://geol.msu.ru/
