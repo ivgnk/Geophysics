@@ -136,8 +136,8 @@ Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941
 СИМАНОВ А.А. https://www.elibrary.ru/author_items.asp?authorid=499031                       
 ЩЕРБИНИНА Г.П. https://www.elibrary.ru/author_items.asp?authorid=119887                         
 ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785   
-Чадаев М С https://elibrary.ru/author_items.asp?authorid=103490
-Ситчихин О В https://elibrary.ru/author_items.asp?authorid=598769                        
+Чадаев М С https://elibrary.ru/author_items.asp?authorid=103490                                 
+Ситчихин О В https://elibrary.ru/author_items.asp?authorid=598769                                 
 
 Барях А А https://www.elibrary.ru/author_items.asp?authorid=961         
 Бачурин Б А https://www.elibrary.ru/author_items.asp?authorid=58259           
