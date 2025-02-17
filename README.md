@@ -172,6 +172,7 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Середин Валерий Викторович https://www.elibrary.ru/author_items.asp?authorid=434105                      
 Коноплев Александр Владимирович https://www.elibrary.ru/author_items.asp?authorid=148730                    
 Татаркин Алексей Викторович https://elibrary.ru/author_profile.asp?authorid=147938 https://www.elibrary.ru/author_items.asp?authorid=147938                  
+Копылов И С https://elibrary.ru/author_items.asp?authorid=155832                
 
 Осовецкий Б М https://elibrary.ru/author_items.asp?authorid=59052               
 **Ибламинов Р Г** https://elibrary.ru/author_items.asp?authorid=69438        
