@@ -159,7 +159,8 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 
 #### ПГНИУ            
 **ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                     
-Гершанок В А https://elibrary.ru/author_items.asp?authorid=296988          
+Гершанок В А https://elibrary.ru/author_items.asp?authorid=296988                          
+Гершанок Л А https://elibrary.ru/author_items.asp?authorid=296989                     
 Костицын В И https://www.elibrary.ru/author_items.asp?authorid=353458              
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
 Луппов Владимир Иванович  https://www.elibrary.ru/author_items.asp?authorid=991337           
@@ -248,6 +249,10 @@ https://www.elibrary.ru/org_items.asp?orgsid=198
 НК Зарубежнефть https://elibrary.ru/org_items.asp?orgsid=4449             
 НК Татненфть https://elibrary.ru/org_items.asp?orgsid=2268     
 НК Башнефть https://elibrary.ru/org_items.asp?orgsid=15313                 
+
+#### Генофизическая служба РАН
+http://www.gsras.ru/new/struct/admin.htm
+Маловичко А А
 
 #### МГУ Геологический факультет
 https://geol.msu.ru/
