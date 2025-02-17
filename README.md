@@ -136,7 +136,8 @@ Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941
 СИМАНОВ А.А. https://www.elibrary.ru/author_items.asp?authorid=499031                       
 ЩЕРБИНИНА Г.П. https://www.elibrary.ru/author_items.asp?authorid=119887                         
 ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785   
-Чадаев М С https://elibrary.ru/author_items.asp?authorid=103490           
+Чадаев М С https://elibrary.ru/author_items.asp?authorid=103490
+Ситчихин О В https://elibrary.ru/author_items.asp?authorid=598769                        
 
 Барях А А https://www.elibrary.ru/author_items.asp?authorid=961         
 Бачурин Б А https://www.elibrary.ru/author_items.asp?authorid=58259           
@@ -178,7 +179,9 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 
 Яковлев Ю А https://elibrary.ru/author_items.asp?authorid=598958             
 Башкова С Е https://elibrary.ru/author_items.asp?authorid=820945            
-Кожевникова Е Е https://elibrary.ru/author_items.asp?authorid=988533                  
+Кожевникова Е Е https://elibrary.ru/author_items.asp?authorid=988533           
+Красильников В П https://elibrary.ru/author_items.asp?authorid=940798                      
+Карасева Т В https://elibrary.ru/author_items.asp?authorid=337963              
 
 #### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
