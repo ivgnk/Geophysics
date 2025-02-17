@@ -135,7 +135,8 @@ Dolgal A S https://www.elibrary.ru/author_profile.asp?authorid=147941
 ПРОСТОЛУПОВ Г.В. https://www.elibrary.ru/author_items.asp?authorid=119888                         
 СИМАНОВ А.А. https://www.elibrary.ru/author_items.asp?authorid=499031                       
 ЩЕРБИНИНА Г.П. https://www.elibrary.ru/author_items.asp?authorid=119887                         
-ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785                      
+ХОХЛОВА В.В. https://www.elibrary.ru/author_items.asp?authorid=1122785   
+Чадаев М С https://elibrary.ru/author_items.asp?authorid=103490           
 
 Барях А А https://www.elibrary.ru/author_items.asp?authorid=961         
 Бачурин Б А https://www.elibrary.ru/author_items.asp?authorid=58259           
@@ -157,20 +158,26 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 
 
 #### ПГНИУ            
-**ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                      
+**ПГНИУ** https://www.elibrary.ru/org_items.asp?orgsid=538                     
+Гершанок В А https://elibrary.ru/author_items.asp?authorid=296988          
 Костицын В И https://www.elibrary.ru/author_items.asp?authorid=353458              
 ГОРОЖАНЦЕВ С.В. https://www.elibrary.ru/author_items.asp?authorid=860709           
 Луппов Владимир Иванович  https://www.elibrary.ru/author_items.asp?authorid=991337           
 Некрасов Александр Сергеевич https://www.elibrary.ru/author_items.asp?authorid=1179544                     
 Плешков Лев Дмитриевич https://www.elibrary.ru/author_items.asp?authorid=1015736                               
-Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767           
+Шумилов А В https://www.elibrary.ru/author_items.asp?authorid=161767    
 
 Середин Валерий Викторович https://www.elibrary.ru/author_items.asp?authorid=434105                      
 Коноплев Александр Владимирович https://www.elibrary.ru/author_items.asp?authorid=148730                    
 Татаркин Алексей Викторович https://elibrary.ru/author_profile.asp?authorid=147938 https://www.elibrary.ru/author_items.asp?authorid=147938                  
 
+Осовецкий Б М https://elibrary.ru/author_items.asp?authorid=59052               
+**Ибламинов Р Г** https://elibrary.ru/author_items.asp?authorid=69438        
+Казымов К П https://elibrary.ru/author_items.asp?authorid=334952                  
+
 #### ООО "ЛУКОЙЛ-ПЕРМЬ"                         
 **ООО "ЛУКОЙЛ-ПЕРМЬ"** https://www.elibrary.ru/org_items.asp?orgsid=559                        
+Воеводкин В Л https://elibrary.ru/author_items.asp?authorid=1069472                 
 ПУТИЛОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=818699                   
 ЗАКЛЮЧНОВ И.С. https://www.elibrary.ru/author_items.asp?authorid=1278512       
 
@@ -182,7 +189,12 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Чистяков Н Ю https://www.elibrary.ru/author_items.asp?authorid=1236849              
 
 #### ПНИПУ       
-**ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848                               
+**ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848    
+Галкин В И https://elibrary.ru/author_items.asp?authorid=147937       
+Галкин С В https://elibrary.ru/author_items.asp?authorid=62858                
+Лядова Н А https://elibrary.ru/author_items.asp?authorid=62859             
+Хижняк Г П https://elibrary.ru/author_items.asp?authorid=466340                   
+
 
 ### 🔴 Екатеринбург         
 #### ИГ УрО РАН                     
