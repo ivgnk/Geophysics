@@ -268,7 +268,12 @@ https://elibrary.ru/org_about.asp?orgsid=5932
 НК Татненфть https://elibrary.ru/org_items.asp?orgsid=2268     
 НК Башнефть https://elibrary.ru/org_items.asp?orgsid=15313                 
 
-#### Генофизическая служба РАН                        
+#### ВНИГНИ                                              
+Всероссийский научно-исследовательский геологический нефтяной институт                     
+https://elibrary.ru/org_items.asp?orgsid=7109                        
+Пороскун Владимир Ильич https://elibrary.ru/author_items.asp?authorid=72391                             
+
+#### Геофизическая служба РАН                        
 http://www.gsras.ru/new/struct/admin.htm                           
 Маловичко А А https://elibrary.ru/author_items.asp?authorid=60402                           
 Маловичко Д А https://elibrary.ru/author_items.asp?authorid=118572                           
