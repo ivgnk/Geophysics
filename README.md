@@ -374,6 +374,12 @@ https://old.sgu.ru/structure/geological/kafgeofiz
 https://www.sstu.ru/universitet/istoriya-razvitiya/sadi-spi-sgtu-85-let/personalii/gubatenko-valeriypetrovich/
 
 
+### 🔴 Краснодар 
+#### Кубанский ГУ                
+https://elibrary.ru/org_items.asp?orgsid=210
+
+https://elibrary.ru/author_items.asp?authorid=144408
+
 ### 🔴 Красноярск    
 #### Сибирский федеральный университет               
 [Институт нефти и газа](https://inig.sfu-kras.ru/)                
