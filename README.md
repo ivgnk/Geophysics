@@ -315,6 +315,7 @@ https://www.eriras.ru
 
 #### ИФЗ          
 **Институт физики Земли Им. О.Ю. Шмидта РАН** https://www.elibrary.ru/org_items.asp?orgsid=99          
+Страхов В.Н. https://elibrary.ru/author_items.asp?authorid=60490
 ДРОБЫШЕВ М.Н. https://www.elibrary.ru/author_items.asp?authorid=831822                  
 КОНЕШОВ В.Н. https://www.elibrary.ru/author_items.asp?authorid=12137                         
 Михайлов В О https://www.elibrary.ru/author_items.asp?authorid=60720                   
