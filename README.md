@@ -153,6 +153,10 @@ Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919
 Muryskin A S https://www.elibrary.ru/author_items.asp?authorid=966296  https://github.com/AlekseiMuryskin             
 Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://www.elibrary.ru/author_items.asp?authorid=145064          
 
+##### Сектор технической минералогии         
+Сметанников А Ф https://www.elibrary.ru/author_items.asp?authorid=67295                             
+
+
 #### АО "ВНИИ Галургии"
 Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893         
 Царев Роман Ильич https://www.elibrary.ru/author_profile.asp?authorid=1113560  https://www.elibrary.ru/author_items.asp?authorid=1113560                 
