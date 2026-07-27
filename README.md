@@ -150,6 +150,7 @@ Stepanov Yu I https://elibrary.ru/author_profile.asp?authorid=28919
 Паршаков Евгений Иосифович https://elibrary.ru/author_profile.asp?authorid=1108081 https://www.elibrary.ru/author_items.asp?authorid=1108081                            
 </details>
 
+Шулаков Д Ю https://elibrary.ru/author_items.asp?authorid=67307
 Muryskin A S https://www.elibrary.ru/author_items.asp?authorid=966296  https://github.com/AlekseiMuryskin             
 Prigara A M https://www.elibrary.ru/author_profile.asp?authorid=145064 https://www.elibrary.ru/author_items.asp?authorid=145064          
 
