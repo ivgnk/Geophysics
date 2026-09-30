@@ -419,7 +419,9 @@ https://elibrary.ru/author_items.asp?authorid=58190
 
 ### 🔴 Новосибирск                         
 Дучков Антон Альбертович https://elibrary.ru/author_items.asp?authorid=63996                              
-Дучков Альберт Дмитриевич https://elibrary.ru/author_items.asp?authorid=58969                   
+Дучков Альберт Дмитриевич https://elibrary.ru/author_items.asp?authorid=58969                         
+
+Гольдин Сергей Васильевич https://elibrary.ru/author_items.asp?authorid=59012                  
 
 
 ### 🔴 Иркутск (606(1100)/2330 тыс.)      
