@@ -418,8 +418,14 @@ https://elibrary.ru/author_items.asp?authorid=58190
 [Список публикаций В. А. Кочнева](https://icm.krasn.ru/refs.php?persid=81)           
 
 ### 🔴 Новосибирск                         
-Яскевич Сергей Владимирович https://elibrary.ru/author_items.asp?authorid=752619
-Дучков Антон Альбертович https://elibrary.ru/author_items.asp?authorid=63996                              
+Яскевич Сергей Владимирович                              
+https://elibrary.ru/author_items.asp?authorid=752619                                                          
+http://www.ipgg.sbras.ru/ru/institute/staff/yaskevichsv                              
+
+Дучков Антон Альбертович                     
+https://elibrary.ru/author_items.asp?authorid=63996                              
+http://www.ipgg.sbras.ru/ru/institute/staff/duchkovaa                 
+
 Дучков Альберт Дмитриевич https://elibrary.ru/author_items.asp?authorid=58969                         
 
 Гольдин Сергей Васильевич https://elibrary.ru/author_items.asp?authorid=59012                  
