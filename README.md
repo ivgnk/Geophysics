@@ -22,10 +22,9 @@ _ Разведка и охрана недр https://elibrary.ru/contents.asp?id=
 _ Минеральные ресурсы России. Экономика и управление https://elibrary.ru/contents.asp?id=44877735                             
 
 [Институт теории прогноза землетрясений и математической геофизики РАН](https://ru.wikipedia.org/wiki/Институт_теории_прогноза_землетрясений_и_математической_геофизики_РАН)                 
-https://www.itpz-ran.ru/ru       
-https://elibrary.ru/org_items.asp?orgsid=176                
-
-
+_ [Конференции «Современные методы оценки сейсмической опасности и прогноза землетрясений»](https://www.itpz-ran.ru/ru/dejatelnost/conferences/)             
+_ [Публикации по годам](https://www.itpz-ran.ru/ru/resultaty/publications/)         
+_ [Вычислительная сейсмология](https://www.itpz-ran.ru/ru/resultaty/our-editions/vs/)                 
 
 **Санкт-Петербург**           
 ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
@@ -306,7 +305,7 @@ https://geophys.geol.msu.ru
 Отделение инженерной геологии, гидрогеологии и геокриологии            
 
 #### Институт энергетических исследований РАН (Отделение энергетики, машиностроения, механики и процессов управления РАН)      
-https://www.eriras.ru               
+https://www.eriras.ru        
 [Публикации](https://www.eriras.ru/data/5/rus)          
 
 #### Российский государственный геологоразведочный университет им. Серго Орджоникидзе (МГРИ РГГРУ)                                   
@@ -343,9 +342,13 @@ https://geol.msu.ru/sites/default/files/filefield_paths/igirgi_4.pdf
 
 Грунис Е Б https://elibrary.ru/author_items.asp?authorid=534793               
 
-#### Институт теории прогноза землетрясений и математической геофизики РАН
-https://www.itpz-ran.ru/ru/
+#### Институт теории прогноза землетрясений и математической геофизики РАН                           
+https://www.itpz-ran.ru/ru                   
+https://elibrary.ru/org_items.asp?orgsid=176                
+
 Кушнир Александр Федорович https://elibrary.ru/author_items.asp?authorid=58928                        
+
+
 
 ### 🔴 Воронеж                 
 Воронежский государственный универстет                         
