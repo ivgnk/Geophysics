@@ -442,7 +442,8 @@ https://elibrary.ru/author_items.asp?authorid=58190
 [Кочнев Владимир Алексеевич Curriculum vitae](https://icm.krasn.ru/personal.php?persid=81&item=1)                    
 [Список публикаций В. А. Кочнева](https://icm.krasn.ru/refs.php?persid=81)           
 
-### 🔴 Новосибирск                         
+### 🔴 Новосибирск           
+#### Институт нефтегазовой геологии и геофизики им. А.А. Трофимука СО РАН (ИНГГ СО РАН) 
 Яскевич Сергей Владимирович                              
 https://elibrary.ru/author_items.asp?authorid=752619                                                          
 http://www.ipgg.sbras.ru/ru/institute/staff/yaskevichsv                              
@@ -451,7 +452,13 @@ http://www.ipgg.sbras.ru/ru/institute/staff/yaskevichsv
 https://elibrary.ru/author_items.asp?authorid=63996                              
 http://www.ipgg.sbras.ru/ru/institute/staff/duchkovaa                 
 
-Дучков Альберт Дмитриевич https://elibrary.ru/author_items.asp?authorid=58969                         
+Дучков Альберт Дмитриевич https://elibrary.ru/author_items.asp?authorid=58969                              
+
+Горшкалев Сергей Борисович 
+http://www.ipgg.sbras.ru/ru/news/gorshkalev-26092023                  
+https://elibrary.ru/author_items.asp?authorid=116890                        
+Дергач Петр Александрович (сейсмика) https://elibrary.ru/author_items.asp?authorid=879586            
+Карстен Владимир Викторович (сейсмика) https://elibrary.ru/author_items.asp?authorid=64072                       
 
 Гольдин Сергей Васильевич https://elibrary.ru/author_items.asp?authorid=59012                  
 
