@@ -206,7 +206,8 @@ Voroshilov V A https://www.elibrary.ru/author_profile.asp?authorid=1099893
 Лаптев А П https://www.elibrary.ru/author_items.asp?authorid=364908                     
 Савич А Д https://www.elibrary.ru/author_items.asp?authorid=521342                  
 Белов С В https://www.elibrary.ru/author_items.asp?authorid=836865                      
-Чистяков Н Ю https://www.elibrary.ru/author_items.asp?authorid=1236849              
+Чистяков Н Ю https://www.elibrary.ru/author_items.asp?authorid=1236849         
+Чудинов Ю В (ВСП)  https://elibrary.ru/author_items.asp?authorid=219696                  
 
 #### ПНИПУ       
 **ПНИПУ** https://www.elibrary.ru/org_items.asp?orgsid=848    
