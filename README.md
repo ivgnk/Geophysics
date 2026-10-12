@@ -21,6 +21,11 @@ _ Отечественная геология https://elibrary.ru/contents.asp?t
 _ Разведка и охрана недр https://elibrary.ru/contents.asp?id=42591524 (по 2020 - св.доступ) http://rion-journal.com/category/issues/ (2005 - 2014)                        
 _ Минеральные ресурсы России. Экономика и управление https://elibrary.ru/contents.asp?id=44877735                             
 
+[Институт теории прогноза землетрясений и математической геофизики РАН](https://ru.wikipedia.org/wiki/Институт_теории_прогноза_землетрясений_и_математической_геофизики_РАН)                 
+https://www.itpz-ran.ru/ru       
+https://elibrary.ru/org_items.asp?orgsid=176                
+
+
 
 **Санкт-Петербург**           
 ВНИГРИ - **[Нефтегазовая геология. Теория и практика (est.2006)](https://ngtp.ru/rub/)**                           
