@@ -343,6 +343,10 @@ https://geol.msu.ru/sites/default/files/filefield_paths/igirgi_4.pdf
 
 Грунис Е Б https://elibrary.ru/author_items.asp?authorid=534793               
 
+#### Институт теории прогноза землетрясений и математической геофизики РАН
+https://www.itpz-ran.ru/ru/
+Кушнир Александр Федорович https://elibrary.ru/author_items.asp?authorid=58928                        
+
 ### 🔴 Воронеж                 
 Воронежский государственный универстет                         
 https://www.elibrary.ru/org_items.asp?orgsid=199   
