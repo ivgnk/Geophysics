@@ -254,6 +254,13 @@ https://www.elibrary.ru/org_items.asp?orgsid=198
 Слепак Захар Моисеевич https://www.elibrary.ru/author_items.asp?authorid=60768  https://kpfu.ru/Zakhar.Slepak                                                
 Утемов Эдуард Валерьевич https://www.elibrary.ru/author_items.asp?authorid=70436 https://kpfu.ru/Edward.Utemov                     
 
+
+### 🔴 Уфа          
+#### Уфимский университет науки и технологий, Физико-технический институт (Уфа)                 
+Муртазин Рамиль Равилевич https://elibrary.ru/author_items.asp?authorid=544159                                  
+
+
+
 ### 🔴 Петербург 
 #### Федеральное государственное унитарное научно-производственное предприятие по морским геологоразведочным работам "Севморгео"
 https://elibrary.ru/org_items.asp?orgsid=9568                     
