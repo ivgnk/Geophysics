@@ -261,7 +261,8 @@ https://www.elibrary.ru/org_items.asp?orgsid=198
 Муртазин Рамиль Равилевич https://elibrary.ru/author_items.asp?authorid=544159                                  
 
 ### 🔴 Калининград                 
-#### Балтийский федеральный университет им. И. Канта, [Научно-исследовательский институт прикладной информатики и математической геофизики](https://kantiana.ru/science/departments/aimg)                                  
+#### Балтийский федеральный университет им. И. Канта, Научно-исследовательский институт прикладной информатики и математической геофизики                  
+https://kantiana.ru/science/departments/aimg                                                                    
 Ерохин Геннадий Николаевич https://elibrary.ru/author_items.asp?authorid=1553                        
 
 
